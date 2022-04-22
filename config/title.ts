@@ -3,4 +3,5 @@ export const titleConfig  =  {
     NameFull : `งานทรัพย์สินทางปัญญา`,
     OrganizationName : `สวพ.`,
     RmutiName : `มทร.อีสาน`,
+    Tel : 2555
 }
