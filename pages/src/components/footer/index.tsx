@@ -51,7 +51,7 @@ const Footer: NextPage = () => {
                                             <h2 className="footer__widget__title">ระบบสารสนเทศ</h2>
                                             <ul className="footer__widget__list">
                                                 <li><a href="https://mis-ird.rmuti.ac.th/ip/home">ระบบเก็บผลงานทรัพย์สินทางปัญญา</a></li>
-                                                <li><a href="https://mis-ird.rmuti.ac.th/meeting/calendar">ระบบจองห้องประชุม</a></li>
+                                                <li><a href="https://ip.ird.rmuti.ac.th/regisip/login">ระบบขอยื่นจดทะเบียนทรัพย์สินทางปัญญา</a></li>
                                                 <li><a href="https://inst.ird.rmuti.ac.th/">ระบบจองเครื่องมือวิจัย</a></li>
                                                 <li><a href="https://mis-ird.rmuti.ac.th/main/">ระบบสารสนเทศทั้งหมด</a></li>
                                             </ul>
