@@ -11,7 +11,7 @@ const Ourwork: NextPage<AppProps> = ({ workdata }) => {
     return (
         <section className="whats-included">
             <div className="whats-included__shape">
-                <img src="/template/images/whats-included/bg-shape.png" alt="img" />
+                <img src="./template/images/whats-included/bg-shape.png" alt="img" />
             </div>
             <div className="container">
                 <div className="row">
